@@ -1,0 +1,7 @@
+# recordings made with the R key (audio from SuperCollider, joined videos)
+recordings/
+
+# Python and macOS
+__pycache__/
+*.pyc
+.DS_Store
